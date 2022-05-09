@@ -1,1 +1,5 @@
-Hello World!
+[Lab report 1](lab-report-1-week-2.html)
+
+[Lab report 2](Lab-report-2.html)
+
+[Lab report 3]lab-report-3-week-6.html)
